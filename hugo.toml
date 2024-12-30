@@ -1,4 +1,4 @@
-baseURL = 'https://coder-role.github.io/cyberrole/'
+baseURL = 'https://coder-role.github.io/hugo-test/'
 languageCode = 'en-us'
 title = 'My Cybersecurity Blog'
 theme = 'anatole'
